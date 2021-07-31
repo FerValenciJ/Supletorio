@@ -2,14 +2,14 @@
 
 ![](https://avatars.githubusercontent.com/u/86242292?s=400&u=9e0062a4902ead9f1d42e2535a76b52438c487a9&v=4)
 
-### Archivos subidos
+### ARCHIVOS SUBIDOS
 
-1. Diagrama de flujo.jpg:
+1. Diagrama iva.jpg:
 
 **Descripción del archivo**
 En este archivo se encuentra una imagen donde se realizó el diagrama de flujo que nos va a permitir calcular el iva (12%) y descuento (10%) de un producto 
 
-2. Exámen supletorio.cpp:
+2. iva_descuento.cpp:
 
 **Descripción del archivo**
 En este programa se encuentra la forma para hacer cálculo del iva (12%) y descuento (10%) de un producto
